@@ -1,0 +1,34 @@
+#option_service{
+    margin-top:100px !important;
+}
+#options_service .card 
+{
+    margin-top:100px;
+    padding: 10px;
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: auto;
+    margin-top: 30px;
+    height: 250px;
+}
+
+#options_service .card .card-img{
+    text-align: center !important;
+    color: #f43f00;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+#options_service .card-title{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+#options_service  .card-text{
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+
+h3{
+    color: #f43f00;
+}

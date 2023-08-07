@@ -1,0 +1,39 @@
+.support-area{
+    background-color: transparent;
+    display: flex;
+}
+
+.support_area{
+    background-image: url('../../../asset/images/bg/BG-Order.png');
+    background-size: cover;
+    width: auto;
+    min-height: 440px;
+    margin: auto;
+    margin-top: 4%;
+    justify-content: center;
+    padding-top: 100px;
+    padding: 60px;
+}
+.support-titile h2{
+    color: white !important;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.support-body p{
+    margin-top: 4rem;
+    text-align: center;
+    color: white !important;
+} 
+.support-footer {
+    margin-top: 3rem;
+    text-align: center;
+}
+.support-footer button{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

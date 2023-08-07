@@ -1,0 +1,15 @@
+Set email and password in .env file backend folder
+jwtSecret=""
+Email=''
+Pass=''
+
+
+
+
+frontend run
+npm run dev
+
+backend run
+npm run dev
+
+

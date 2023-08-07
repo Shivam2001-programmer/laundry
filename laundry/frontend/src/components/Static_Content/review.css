@@ -1,0 +1,7 @@
+#rating_area 
+{
+  background-image: url('../../asset/images/bg/biography-bg.png');
+  width: 100%;
+  background-size: cover;
+  background-color: red !important;
+}
